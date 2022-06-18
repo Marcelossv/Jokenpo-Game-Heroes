@@ -4,5 +4,5 @@ jokenPo app with superhero themes
 
 ## Screenshots
 
-![Fight](./Images/Fight.png)
-![NewGame](./Images/NewGame.png)
+![done01](./Images/done01.png)
+
