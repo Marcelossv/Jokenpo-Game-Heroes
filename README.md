@@ -2,6 +2,9 @@
 
 jokenPo app with superhero themes
 
+## Used Technologies:
+  🔹 Storyboard
+
 ## Screenshots
 
 ![done01](./Images/done01.png)
